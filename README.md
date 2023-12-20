@@ -4,11 +4,6 @@ Certainly! Below is a simple README file for the Go project. The README provides
 # Go Dummy API
 
 This is a simple RESTful API built with Go that provides information about students and their courses. The project demonstrates basic web server functionality, handling HTTP requests, and serving JSON responses.
-
-## Getting Started
-
-### Prerequisites
-
 Make sure you have Go installed on your machine. You can download it from [https://golang.org/dl/](https://golang.org/dl/).
 
 1. Clone the repository:
