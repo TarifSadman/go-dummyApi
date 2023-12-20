@@ -1,7 +1,7 @@
 Certainly! Below is a simple README file for the Go project. The README provides a brief introduction to the project, explains how to run it, and suggests potential improvements or next steps.
 
 ```markdown
-# Go Student API
+# Go Dummy API
 
 This is a simple RESTful API built with Go that provides information about students and their courses. The project demonstrates basic web server functionality, handling HTTP requests, and serving JSON responses.
 
@@ -11,13 +11,10 @@ This is a simple RESTful API built with Go that provides information about stude
 
 Make sure you have Go installed on your machine. You can download it from [https://golang.org/dl/](https://golang.org/dl/).
 
-### Running the Project
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/go-student-api.git
-   ```
+   git clone [https://github.com/](https://github.com/TarifSadman/go-dummyApi.git)
 
 2. Navigate to the project directory:
 
